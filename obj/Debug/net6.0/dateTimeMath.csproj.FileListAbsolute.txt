@@ -1,0 +1,15 @@
+C:\Users\codingGrounds\Documents\VSCode\dateTimeMath\bin\Debug\net6.0\dateTimeMath.exe
+C:\Users\codingGrounds\Documents\VSCode\dateTimeMath\bin\Debug\net6.0\dateTimeMath.deps.json
+C:\Users\codingGrounds\Documents\VSCode\dateTimeMath\bin\Debug\net6.0\dateTimeMath.runtimeconfig.json
+C:\Users\codingGrounds\Documents\VSCode\dateTimeMath\bin\Debug\net6.0\dateTimeMath.dll
+C:\Users\codingGrounds\Documents\VSCode\dateTimeMath\bin\Debug\net6.0\dateTimeMath.pdb
+C:\Users\codingGrounds\Documents\VSCode\dateTimeMath\obj\Debug\net6.0\dateTimeMath.csproj.AssemblyReference.cache
+C:\Users\codingGrounds\Documents\VSCode\dateTimeMath\obj\Debug\net6.0\dateTimeMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\codingGrounds\Documents\VSCode\dateTimeMath\obj\Debug\net6.0\dateTimeMath.AssemblyInfoInputs.cache
+C:\Users\codingGrounds\Documents\VSCode\dateTimeMath\obj\Debug\net6.0\dateTimeMath.AssemblyInfo.cs
+C:\Users\codingGrounds\Documents\VSCode\dateTimeMath\obj\Debug\net6.0\dateTimeMath.csproj.CoreCompileInputs.cache
+C:\Users\codingGrounds\Documents\VSCode\dateTimeMath\obj\Debug\net6.0\dateTimeMath.dll
+C:\Users\codingGrounds\Documents\VSCode\dateTimeMath\obj\Debug\net6.0\refint\dateTimeMath.dll
+C:\Users\codingGrounds\Documents\VSCode\dateTimeMath\obj\Debug\net6.0\dateTimeMath.pdb
+C:\Users\codingGrounds\Documents\VSCode\dateTimeMath\obj\Debug\net6.0\dateTimeMath.genruntimeconfig.cache
+C:\Users\codingGrounds\Documents\VSCode\dateTimeMath\obj\Debug\net6.0\ref\dateTimeMath.dll
